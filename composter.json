@@ -1,0 +1,18 @@
+{
+  "name": "rik-janssen/datefy",
+  "type": "project",
+  "description": "Vesper PHP, build fast.",
+  "keywords": ["dates", "times", "timestamp", "convert", "readable time"],
+  "license": "MIT",
+  
+   "authors": [
+      {
+          "name": "Rik Janssen",
+          "email": "rik@vesperphp.com"
+      }
+  ],
+  
+  "require": {
+  }
+  
+}
